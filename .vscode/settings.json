@@ -1,0 +1,7 @@
+{
+    "makefile.configureOnOpen": true,
+    "C_Cpp.default.includePath": [
+        "${default}",
+        "C:/MinGW/include"  // Adjust this path based on your compiler
+    ]
+}
